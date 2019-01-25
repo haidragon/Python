@@ -1,5 +1,5 @@
 #打开即将备份的文件
-oldFileName = "D:/Personal/Desktop/test.txt"
+oldFileName = "C:/Users/xiaoming/Desktop/test.txt"
 oldFile = open(oldFileName,"r")
 
 #如果打开了文件，则继续进行操作
@@ -12,6 +12,7 @@ if oldFile:
     fileFlagNum = oldFileName.rfind(".")
     #如果文件名中有“.”则继续操作
     if fileFlagNum > 0:
+        #截取字符串，str[startNum:endNum]
         fileFlag = oldFileName[fileFlagNum:]
     #组织新的文件名：
     newFileName = oldFileName[:fileFlagNum] + "[副本]" + fileFlag
