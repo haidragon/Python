@@ -39,8 +39,8 @@ class Spider():
             print(path + " is exists")
         else:
             for line in tit_list:
-                message = message + line
-                message.replace(r"　　", "")
+                message = message + line + "\n"
+                #message.replace(r"　　", "")
             try:
                 f = open(path, "w", encoding="utf-8")
                 f.write(message)
