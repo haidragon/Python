@@ -4,6 +4,8 @@ import os
 from multiprocessing import Pool,freeze_support
 import mul_process_package
 
+
+
 class Spider():
     def start_request(self):
         #请求拿到一级页面数据，小说名称创建文件夹

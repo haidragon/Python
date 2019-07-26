@@ -21,7 +21,8 @@ def main():
         try:
             newClientInfo = serSocket.accept()
         except Exception as s:
-            print("==========1===>%s"%str(s))
+            #print("==========1===>%s"%str(s))
+            pass
         else:
             print("一个新的客户端到来:%s" % str(newClientInfo))
             newClientInfo[0].setblocking(False)
@@ -36,11 +37,13 @@ def main():
                 if len(recvData) > 0:
                     print('recv[%s]:%s' % (str(clientAddr), recvData))
                 else:
-                    print('[%s]客户端已经关闭' % str(clientAddr))
                     clientSocket.close()
-                    needDelClientInfoList.append((clientSocket, clientAddr))
+                    #needDelClientInfoList.append((clientSocket, clientAddr))
+                    g_socketList.remove((clientSocket, clientAddr))
+                    print('[%s]客户端已经关闭' % str(clientAddr))
             except Exception as s:
-                print("==========2===>%s" % str(s))
+                #print("==========2===>%s" % str(s))
+                pass
 
 
         for needDelClientInfo in needDelClientInfoList:
