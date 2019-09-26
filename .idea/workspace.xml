@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44807b22-0b2b-47aa-8102-01c491f479ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/APP-security/Androguard/my_analyze.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/其他东东/2019/0723/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/其他东东/2019/0724/Download.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/其他东东/2019/0806/Employee.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/其他东东/12306/12306" afterPath="$PROJECT_DIR$/其他东东/12306/12306" />
-      <change beforePath="$PROJECT_DIR$/其他东东/2019/0724/work.py" afterPath="$PROJECT_DIR$/其他东东/2019/0724/work.py" />
-      <change beforePath="$PROJECT_DIR$/其他东东/爬虫/起点/起点.py" afterPath="$PROJECT_DIR$/其他东东/爬虫/起点/起点.py" />
+      <change afterPath="$PROJECT_DIR$/APP-security/frida/001/ecology.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APP-security/frida/001/srcb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APP-security/frida/001/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APP-security/frida/001/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/其他东东/TP-link/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/其他东东/爬虫/BiliBili/bilibili.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他东东/12306/12306" beforeDir="false" afterPath="$PROJECT_DIR$/其他东东/12306/12306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他东东/12306/12306/config/ticketConf.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他东东/12306/12306/config/ticketConf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他东东/12306/12306/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他东东/12306/12306/run.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv1/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,58 +28,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="my_analyze.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APP-security/Androguard/my_analyze.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP-security/frida/001/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="78" column="63" lean-forward="false" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="63" />
+            <state relative-caret-position="874">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bytecode.py" pinned="false" current-in-tab="true">
-        <entry file="file://H:/Software/Android/androguard/androguard/core/bytecode.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/APP-security/frida/001/srcb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="252" column="23" lean-forward="true" selection-start-line="252" selection-start-column="23" selection-end-line="252" selection-end-column="23" />
+            <state relative-caret-position="95">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/Software/Android/androguard/androguard/cli/main.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP-security/frida/001/ecology.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="431" column="54" lean-forward="false" selection-start-line="431" selection-start-column="51" selection-end-line="431" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/Software/Android/androguard/androguard/core/analysis/analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="802" column="0" lean-forward="true" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
+            <state relative-caret-position="61">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mutf8.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/Software/Android/androguard/androguard/core/mutf8.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP-security/frida/001/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="-212">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,10 +87,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>chrome</find>
-      <find>'</find>
-      <find>ticket_info_config = _get_yaml()</find>
-      <find>状态码</find>
       <find>sprite</find>
       <find>sprites</find>
       <find>serSocker</find>
@@ -117,12 +109,22 @@
       <find>mutf8.MUTF8String.join([self.method.get_name(), b'-BB@', hex(self.start).encode()])</find>
       <find>whm</find>
       <find>print</find>
+      <find>192.168.1.1</find>
+      <find>No such file or directory</find>
+      <find>Activity</find>
+      <find>xiaoming</find>
+      <find>onclick</find>
+      <find>com.ecology.view.WelcomeActivity</find>
+      <find>crypt</find>
+      <find>H:\\其他\\Desktop\\Android\\frida</find>
     </findStrings>
     <replaceStrings>
       <replace>firefox</replace>
       <replace>&quot;</replace>
       <replace>操作码</replace>
       <replace>serSocket</replace>
+      <replace>192.168.0.1</replace>
+      <replace>H:\\坚果云\\我的坚果云\\PycharmProject\\APP-security\\frida\\frida-JS</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -131,12 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/05-线程共享全局变量的问题.py" />
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/列表传递给线程.py" />
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/07-避免多线程共享数据出错-互斥锁.py" />
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/10-多线程使用非全局变量.py" />
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/11-同步的理解和使用.py" />
-        <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/ThreadLocal-.py" />
         <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/13-ThreadLocal-.py" />
         <option value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/14-生产者与消费者模式.py" />
         <option value="$PROJECT_DIR$/其他东东/爬虫/起点/起点-多进程.py" />
@@ -182,12 +178,19 @@
         <option value="$PROJECT_DIR$/APP-security/Androguard/my_analyze.py" />
         <option value="H:/Software/Android/androguard/androguard/core/bytecode.py" />
         <option value="H:/Software/Android/androguard/androguard/core/analysis/analysis.py" />
+        <option value="$PROJECT_DIR$/其他东东/爬虫/BiliBili/bilibili.py" />
+        <option value="$PROJECT_DIR$/其他东东/TP-link/test.py" />
+        <option value="$PROJECT_DIR$/APP-security/frida/001/test.py" />
+        <option value="$PROJECT_DIR$/APP-security/frida/001/test2.py" />
+        <option value="$PROJECT_DIR$/APP-security/frida/001/ecology.py" />
+        <option value="$PROJECT_DIR$/APP-security/frida/001/srcb.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="224" />
-    <option name="width" value="1799" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-38" />
+    <option name="y" value="9" />
+    <option name="width" value="1800" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -213,20 +216,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,39 +237,41 @@
               <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
               <item name="APP-security" type="462c0819:PsiDirectoryNode" />
-              <item name="Androguard" type="462c0819:PsiDirectoryNode" />
+              <item name="frida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
+              <item name="APP-security" type="462c0819:PsiDirectoryNode" />
+              <item name="frida" type="462c0819:PsiDirectoryNode" />
+              <item name="001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
+              <item name="APP-security" type="462c0819:PsiDirectoryNode" />
+              <item name="frida" type="462c0819:PsiDirectoryNode" />
+              <item name="frida-JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
               <item name="其他东东" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="其他东东" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="其他东东" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-              <item name="0806" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/云盘同步文件夹/我的坚果云/PycharmProject/Python核心编程/Python-01/03-深拷贝和浅拷贝/拷贝.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/APP-security/frida/001" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySupportQtDebugging" value="false" />
@@ -287,11 +283,11 @@
       <recent name="F:\云盘同步文件夹\我的坚果云\PycharmProject\Python核心编程\Python-01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\坚果云\我的坚果云\PycharmProject\APP-security\frida\001" />
       <recent name="H:\坚果云\我的坚果云\PycharmProject\其他东东\2019\0723" />
       <recent name="E:\云盘同步文件夹\我的坚果云\PycharmProject\其他东东\XML转Excel" />
       <recent name="E:\云盘同步文件夹\我的坚果云\PycharmProject\其他东东\图片转字符" />
       <recent name="E:\云盘同步文件夹\我的坚果云\PycharmProject\Python核心编程\Python-05-网络编程\04-并发服务器" />
-      <recent name="E:\云盘同步文件夹\我的坚果云\PycharmProject\Python核心编程\Python-05-网络编程\TCP" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,134 +302,133 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_analyze">
-    <configuration name="笔趣阁-多进程-V2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.srcb">
+    <configuration name="bilibili" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/爬虫/笔趣阁" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/爬虫/BiliBili" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/爬虫/笔趣阁/笔趣阁-多进程-V2.0.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/爬虫/BiliBili/bilibili.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="01-使用多线程完成任务" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ecology" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP-security/frida/001" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python核心编程/Python-04-系统编程-1/02-多线程/01-使用多线程完成任务.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP-security/frida/001/ecology.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="srcb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/2019/0724" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP-security/frida/001" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/2019/0724/Download.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP-security/frida/001/srcb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/2019/0806" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/TP-link" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/2019/0806/Employee.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/TP-link/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="my_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP-security/Androguard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP-security/frida/001" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP-security/Androguard/my_analyze.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP-security/frida/001/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="work" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他东东/2019/0724" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东东/2019/0724/work.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.work" />
-      <item index="1" class="java.lang.String" itemvalue="Python.01-使用多线程完成任务" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Download" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Employee" />
-      <item index="4" class="java.lang.String" itemvalue="Python.my_analyze" />
+    <list>
+      <item itemvalue="Python.bilibili" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ecology" />
+      <item itemvalue="Python.srcb" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.my_analyze" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Employee" />
-        <item index="2" class="java.lang.String" itemvalue="Python.work" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Download" />
-        <item index="4" class="java.lang.String" itemvalue="Python.01-使用多线程完成任务" />
+      <list>
+        <item itemvalue="Python.srcb" />
+        <item itemvalue="Python.ecology" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.bilibili" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -445,6 +440,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533113740613</updated>
+      <workItem from="1566617802083" duration="64000" />
+      <workItem from="1567426833687" duration="4283000" />
+      <workItem from="1567755112453" duration="3593000" />
+      <workItem from="1567934047926" duration="294000" />
+      <workItem from="1568775988273" duration="9042000" />
+      <workItem from="1569220547958" duration="8335000" />
+      <workItem from="1569289512676" duration="5000000" />
+      <workItem from="1569401601067" duration="3286000" />
+      <workItem from="1569465004238" duration="16867000" />
     </task>
     <task id="LOCAL-00001" summary="测试修改">
       <created>1547041896520</created>
@@ -512,6 +516,9 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50764000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -522,38 +529,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <frame x="-25" y="6" width="1200" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.162527" sideWeight="0.7504052" order="0" side_tool="false" content_ui="combo" x="828" y="101" width="267" height="753" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32276994" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946004" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37089202" sideWeight="0.5233298" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31823745" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3274648" sideWeight="0.49702382" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2230047" sideWeight="0.49702382" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37089202" sideWeight="0.4766702" order="2" side_tool="false" content_ui="tabs" x="567" y="314" width="1247" height="212" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2230047" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2924107" sideWeight="0.24959481" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21279374" sideWeight="0.49103943" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.49668875" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" x="828" y="101" width="267" height="753" id="Project" order="0" sideWeight="0.74832964" visible="true" weight="0.20052539" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.2516704" side_tool="true" weight="0.17946646" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3173759" />
+      <window_info anchor="bottom" x="567" y="314" width="1247" height="212" id="Run" order="2" sideWeight="0.4766702" weight="0.27304965" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49103943" weight="0.21153846" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49702382" weight="0.32276994" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49702382" weight="0.2230047" />
+      <window_info anchor="bottom" id="版本控制" order="8" />
+      <window_info anchor="bottom" id="调试" order="9" weight="0.32934928" />
+      <window_info anchor="bottom" id="运行" order="10" sideWeight="0.49668875" weight="0.32934928" />
+      <window_info anchor="bottom" id="找到" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49702382" weight="0.3274648" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49702382" weight="0.2230047" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5233298" side_tool="true" weight="0.37089202" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946004" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3294702" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试修改" />
@@ -586,99 +596,36 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="26" />
     </breakpoint-manager>
-    <watches-manager />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProject$srcb.coverage" NAME="srcb Coverage Results" MODIFIED="1569490273042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP-security/frida/001" />
+    <SUITE FILE_PATH="coverage/PycharmProject$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1569403606981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP-security/frida/001" />
+    <SUITE FILE_PATH="coverage/PycharmProject$bilibili.coverage" NAME="bilibili Coverage Results" MODIFIED="1567431274363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/其他东东/爬虫/BiliBili" />
+    <SUITE FILE_PATH="coverage/PycharmProject$ecology.coverage" NAME="ecology Coverage Results" MODIFIED="1569475458168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP-security/frida/001" />
+    <SUITE FILE_PATH="coverage/PycharmProject$test.coverage" NAME="test Coverage Results" MODIFIED="1567934313219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/其他东东/TP-link" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/其他东东/邮件/SendMail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/邮件/SendMail-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/邮件/SendMail-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/爬虫-智联/智联.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/爬虫/斗鱼/DY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/随便写写/斐波那契数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/爬虫/起点/起点-多进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他东东/爬虫/笔趣阁/绝世武神" />
-    <entry file="file://$PROJECT_DIR$/其他东东/爬虫/笔趣阁/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/图片转字符/tmp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/图片转字符/str2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/爬虫-智联/zlzp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/图片转字符/PictureToText.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/图片转字符/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="33" />
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -690,33 +637,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/爬虫/笔趣阁/mul_process_package.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/随便写写/Text.py" />
     <entry file="file://$PROJECT_DIR$/Python核心编程/Python-01/01-循环导入/b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python核心编程/Python-01/01-循环导入/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础编程/Python-03/ForDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/venv1/pyvenv.cfg" />
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg" />
@@ -744,31 +675,25 @@
     <entry file="file://$PROJECT_DIR$/Python基础编程/Python-13/飞机大战/01-飞机大战-创建窗口.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础编程/Python-03/List/NameAdminDemo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="734">
-          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python核心编程/Python-01/04-Property/01-property.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0724/image.gif" />
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0724/image2.txt" />
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0724/image2.gif" />
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0724/image2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0723/settings.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -780,14 +705,14 @@
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0723/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="54" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/XML转Excel/XML转CSV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18">
-          <caret line="43" column="48" lean-forward="false" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -799,30 +724,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0806/employee.db">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0724/Download.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
     <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-516756811/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="2056" column="16" lean-forward="false" selection-start-line="2056" selection-start-column="16" selection-end-line="2056" selection-end-column="16" />
+          <caret line="2056" column="16" selection-start-line="2056" selection-start-column="16" selection-end-line="2056" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -830,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/其他东东/2019/0806/Employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1544">
-          <caret line="73" column="12" lean-forward="false" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -838,7 +753,7 @@
     <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-516756811/_md5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -846,7 +761,7 @@
     <entry file="file://D:/Python/Python37/Lib/hashlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="50" />
+          <caret line="83" column="50" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -854,15 +769,14 @@
     <entry file="file://H:/Software/Android/androguard/androguard/session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-54">
-          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://H:/Software/Android/androguard/androguard/cli/entry_points.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
-          <caret line="392" column="18" lean-forward="false" selection-start-line="392" selection-start-column="18" selection-end-line="392" selection-end-column="18" />
+          <caret line="392" column="18" selection-start-line="392" selection-start-column="18" selection-end-line="392" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -870,15 +784,15 @@
     <entry file="file://H:/Software/Android/androguard/androguard.egg-info/SOURCES.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/APP-security/Androguard/my_analyze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="78" column="63" lean-forward="false" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="63" />
+        <state relative-caret-position="1444">
+          <caret line="78" column="63" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="63" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -887,36 +801,109 @@
     </entry>
     <entry file="file://H:/Software/Android/androguard/androguard/cli/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="431" column="54" lean-forward="false" selection-start-line="431" selection-start-column="51" selection-end-line="431" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Software/Android/androguard/androguard/core/mutf8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="7885">
+          <caret line="431" column="54" selection-start-line="431" selection-start-column="51" selection-end-line="431" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://H:/Software/Android/androguard/androguard/core/analysis/analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="802" column="0" lean-forward="true" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
+        <state relative-caret-position="15067">
+          <caret line="802" selection-start-line="802" selection-end-line="802" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://H:/Software/Android/androguard/androguard/core/mutf8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://H:/Software/Android/androguard/androguard/core/bytecode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="252" column="23" lean-forward="true" selection-start-line="252" selection-start-column="23" selection-end-line="252" selection-end-column="23" />
+        <state relative-caret-position="-122">
+          <caret line="252" column="23" selection-start-line="252" selection-start-column="23" selection-end-line="252" selection-end-column="23" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他东东/TP-link/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他东东/爬虫/BiliBili/bilibili.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/frida/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="175" column="42" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/001/ecology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/001/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/001/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/frida-JS/001-追踪调用.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1159">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/frida-JS/000-列出加载的类.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP-security/frida/001/srcb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
